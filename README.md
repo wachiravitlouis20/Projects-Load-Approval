@@ -9,10 +9,14 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
 ## 3. คำถามที่ต้องการตอบ (Key Questions)
 1. ปัจจัยการศึกษาส่งผลต่อการอนุมัติเงินกู้หรือไม่
 2. ประสบการณ์ทำงานส่งผลต่อการอนุมัติเงินกู้หรือไม่
+3. ผู้มีรายได้สูงส่งผลต่อการอนุมัติเงินกู้หรือไม่
 
 ## 4. ขั้นตอนการทำงาน (Workflow)
 1.Understand Dataset
-2.Prepare and clean Data
+2.Data Preparation & Cleaning
+3.Exploratory Data Analysis - EDA
+4.Modeling
+5.Reporting & Documentation
 
 ## 5. ผลการวิเคราะห์ (Findings)
 
