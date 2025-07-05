@@ -12,11 +12,11 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
 3. ปัจจัยอะไรคือปัจจัยที่สำคัญที่สุดในการส่งผลให้อนุมัติสินเชื่อผ่าน
 
 ## 4. ขั้นตอนการทำงาน (Workflow)
-1.Understand Dataset
-2.Data Preparation & Cleaning
-3.Exploratory Data Analysis - EDA
-4.Modeling
-5.Reporting & Documentation
+1. Understand Dataset
+2. Data Preparation & Cleaning
+3. Exploratory Data Analysis - EDA
+4. Modeling
+5. Reporting & Documentation
 
 ## 5. ผลการวิเคราะห์ (Findings)
 
