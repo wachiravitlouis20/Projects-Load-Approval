@@ -15,8 +15,7 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
 1. Understand Dataset
 2. Data Preparation & Cleaning
 3. Exploratory Data Analysis - EDA
-4. Modeling
-5. Reporting & Documentation
+4. Reporting & Documentation
 
 ## 5. ผลการวิเคราะห์ (Findings)
 
