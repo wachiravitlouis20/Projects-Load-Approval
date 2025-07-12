@@ -50,3 +50,6 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
 
 
 ## 6. Dashboard
+![Dashboard Preview Page1](https://github.com/wachiravitlouis20/Projects-Load-Approval/blob/eb5569f0aa7f551829a79f109c42824dcee6c5ad/Project/Loan_Approval_Dashboard-1.png
+)
+![Dashboard Preview Page2](https://github.com/wachiravitlouis20/Projects-Load-Approval/blob/eb5569f0aa7f551829a79f109c42824dcee6c5ad/Project/Loan_Approval_Dashboard-2.png)
